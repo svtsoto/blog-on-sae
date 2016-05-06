@@ -1,0 +1,10 @@
+name: svtsotosoto1
+version: 2
+
+libraries:
+- name: "django"
+  version: "1.4"
+
+handlers:
+- url: /static/
+static_path: path/to/2/static
